@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Styledcomponents/Emotion-DB7093?style=flat-square&logo=styledcomponents&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/>
@@ -21,7 +22,7 @@
 
 ## Timeline
 
-* (2023. 07 ~ ) 대학생 취업 활동 관련 커뮤니티 프로젝트 **ALL-IN-JOB** 스터디 진행중
+* (2023. 07 ~ ) 대학생 취업 활동 관련 커뮤니티 프로젝트 **ALL-IN-JOB** 스터디 진행중...
 * (2023. 05 ~ 2023. 07) 개인 프로젝트 캠핑 관련 커뮤니티 및 중고거래 CAMPEE 웹 사이트 제작
 * (2022. 12 ~ 2023. 04) 코드캠프 프론트엔드 개발 과정 11기 수료
 
