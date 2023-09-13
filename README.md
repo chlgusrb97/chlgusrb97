@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=00ADB5&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+chlgusrb97's+GitHub!%20👋)](https://git.io/typing-svg)
 
-## Teck Stacks
+## Tech Stacks
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
